@@ -16,6 +16,8 @@ A simple developer focusing on front and back-end languages 😆
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://expressjs.com/">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+<a href="https://firebase.google.com/">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
 
 ### Intermediary
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
