@@ -18,6 +18,8 @@ A simple developer focusing on front and back-end languages 😆
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
 <a href="https://firebase.google.com/">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
 ### Intermediary
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
