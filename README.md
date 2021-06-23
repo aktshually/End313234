@@ -41,3 +41,4 @@ A simple developer focusing on front and back-end languages 😆
 
 ## Contact me
 <a href="https://discord.com/users/850925515183226881"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+![my status](https://github-readme-stats.vercel.app/api?username=end313234&show_icons=true&theme=dark)
