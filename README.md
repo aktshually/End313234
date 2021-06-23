@@ -44,4 +44,8 @@ A simple developer focusing on front and back-end languages 😆
 
 <br>
 
-![my status](https://github-readme-stats.vercel.app/api?username=end313234&show_icons=true&theme=dark)
+![my status](https://github-readme-stats.vercel.app/api?username=end313234&show_icons=true&theme=dark) 
+
+<br>
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=end313234&langs_count=3)
