@@ -48,4 +48,4 @@ A simple developer focusing on front and back-end languages 😆
 
 <br>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=end313234&langs_count=3)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=End313234&layout=compact&langs_count=16&theme=dracula)
