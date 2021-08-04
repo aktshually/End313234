@@ -27,7 +27,7 @@ A simple developer focusing on front and back-end languages 😆
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
 ## My goals
-- [ x ] Learn more about [React](https://reactjs.org/ 'ReactJS') and [Express](https://expressjs.com/ 'ExpressJS')
+- [x] Learn more about [React](https://reactjs.org/ 'ReactJS') and [Express](https://expressjs.com/ 'ExpressJS')
 - [ ] Get more advanced in [Python](https://www.python.org/ 'Python') and JavaScript
 - [ ] Make a functional IA
 
