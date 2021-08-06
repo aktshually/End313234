@@ -28,7 +28,7 @@ A simple developer focusing on front and back-end languages 😆
 
 ## My goals
 - [x] Learn more about [React](https://reactjs.org/ 'ReactJS') and [Express](https://expressjs.com/ 'ExpressJS')
-- [ ] Get more advanced in [Python](https://www.python.org/ 'Python') and JavaScript
+- [x] Get more advanced in [Python](https://www.python.org/ 'Python') and JavaScript
 - [ ] Make a functional IA
 
 ## Chat with me!
