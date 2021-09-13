@@ -29,14 +29,18 @@ A simple developer focusing on front and back-end languages 😆
 </a>
 
 ### Intermediary
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<span>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</span>
 <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=Next.JS&logoColor=white">
 </a>
 <a href="https://reactjs.org/">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<span>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</span>
 <a href="https://python.org/">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://sass-lang.com/">
