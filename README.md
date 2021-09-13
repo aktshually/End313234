@@ -62,9 +62,10 @@ A simple developer focusing on front and back-end languages 😆
     <img src="https://img.shields.io/badge/hyper-000000?style=for-the-badge&logo=hyper&logoColor=white">
 </a>
 
+
 ## My goals
-- [ x ] Learn more about [React](https://reactjs.org/ 'ReactJS') and [Express](https://expressjs.com/ 'ExpressJS')
-- [ ] Get more advanced in [Python](https://www.python.org/ 'Python') and JavaScript
+- [x] Learn more about [React](https://reactjs.org/ 'ReactJS') and [Express](https://expressjs.com/ 'ExpressJS')
+- [x] Get more advanced in [Python](https://www.python.org/ 'Python') and JavaScript
 - [ ] Make a functional IA
 
 ## Chat with me!
