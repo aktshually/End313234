@@ -14,9 +14,6 @@ A simple developer focusing on front and back-end languages 😆
 <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white">
 </a>
-<span>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-</span>
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 </a>
